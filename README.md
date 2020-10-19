@@ -1,10 +1,10 @@
-# PoopBotCode
+# BuckBotCode
 
 **Support Discord: *https://discord.gg/am6jzTJ***
 
-### What is PoopBotCode
-Poop Bot Code is the github repo for the discord bot, Poop Bot. You **ARE** free to run the bot **AS LONG AS** you do **NOT** distribute it.
-You **MUST** rename the bot, if a normal person would believe it is poop bot, then you are **NOT** free to run it.
+### What is BuckBotCode
+Buck Bot Code is the github repo for the discord bot, Buck Bot. You **ARE** free to run the bot **AS LONG AS** you do **NOT** distribute it.
+You **MUST** rename the bot, if a normal person would believe it is Buck bot, then you are **NOT** free to run it.
 
 ### Why did I do this
 three main reasons
@@ -14,8 +14,8 @@ three main reasons
 \* = Reference means look or use short bits of code, around 100 lines. If you're unsure join the support discord and DM me
 
 ### How to run the bot
-Poop Bot isn't built to run on anything but my server, but I'll give you a small overview
-You will need a Discord Bot and you will need to follow the rules in **What is PoopBotCode**
+Buck Bot isn't built to run on anything but my server, but I'll give you a small overview
+You will need a Discord Bot and you will need to follow the rules in **What is BuckBotCode**
 1. Download Code
 2. UnZip
 3. Get Node.js **I'm not telling you how to set it up**
